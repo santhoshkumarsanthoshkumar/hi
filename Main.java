@@ -5,5 +5,6 @@ public static void main(String []arg)
 {
 System.out.print("th");
   System.out.print("h");
+  System.out.print("bye");
 }
 }
