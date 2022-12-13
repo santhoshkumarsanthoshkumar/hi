@@ -3,6 +3,7 @@ class Main
 {
 public static void main(String []arg)
 {
-System.out.print("thilak ku varradhu");
+System.out.print("th");
+  System.out.print("th");
 }
 }
